@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "93109998-0AA1-473C-882A-2DE780CA6B9D"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6960575E-6372-42F1-A15B-B0D7E4C07327"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VinnerAirSense/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5252"
+            endingLineNumber = "5252"
+            landmarkName = "ActionDropDown(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6960575E-6372-42F1-A15B-B0D7E4C07327 - ae680110d3621949"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VinnerAirSense.HomeViewController.ActionDropDown(__C.UIButton) -&gt; ()"
+                  moduleName = "VinnerAirSense"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/VinnerAirSense_Praveen/VinnerAirSense/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5252"
+                  endingLineNumber = "5252"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  uuid = "6960575E-6372-42F1-A15B-B0D7E4C07327 - ae680110d3621949"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VinnerAirSense.HomeViewController.ActionDropDown(__C.UIButton) -&gt; ()"
+                  moduleName = "VinnerAirSense"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/VinnerAirSense_Praveen/VinnerAirSense/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5252"
+                  endingLineNumber = "5252"
+                  offsetFromSymbolStart = "935">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
